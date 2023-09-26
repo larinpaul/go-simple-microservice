@@ -48,4 +48,5 @@ func handleRequests() {
 
 func main() {
 	handleRequests()
+	fmt.Println("Go")
 }
